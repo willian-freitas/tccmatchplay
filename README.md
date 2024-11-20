@@ -1,14 +1,25 @@
 1. Identificação
+
 a. Identidade Visual do projeto
+
 b. Redes sociais do projeto
+
 b. Equipe
+
   Willian de Almeida Freitas e Felipe da Silva Brero.
+
 c. Data criação do documento
+
   Maio(05) de 2024.
+
 2. Introdução
+
 a. Objetivo do projeto
+
   Desenvolver uma plataforma online voltada para a interação social entre jogadores de jogos digitais, destinada a promover interações sociais colaborativas entre jogadores no contexto brasileiro.
+
 b. Escopo do projeto
+
 • Descrição do produto (MVP) do projeto
    Plataforma online em formato de website com nicho de jogos digitais com objetivo dos usuários encontrarem outras pessoas para que possam jogar juntos, com interesses em comum.
 • Principais entregas do projeto
