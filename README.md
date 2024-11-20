@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1b733dea-02dc-42ea-b7c0-2fc2c234f341)1. Identificação
+1. Identificação
 a. Identidade Visual do projeto
 b. Redes sociais do projeto
 b. Equipe
