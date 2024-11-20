@@ -35,11 +35,11 @@ b. Escopo do projeto
 
 • Critérios de aceitação do produto
 
-    Login:
+   - Login:
 
   • O usuário deve ser capaz de inserir seu email e senha. O sistema deve exibir uma mensagem de erro se os dados estiverem incorretos.
 
-    Edição de Perfil:
+   - Edição de Perfil:
 
   • O usuário deve ser capaz de personalizar seu perfil, podendo alterar sua foto, seu nome de usuário, horário de jogo, jogo favorito, plataforma e descrição.
 
