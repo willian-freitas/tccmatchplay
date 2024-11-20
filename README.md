@@ -43,15 +43,15 @@ b. Escopo do projeto
 
   • O usuário deve ser capaz de personalizar seu perfil, podendo alterar sua foto, seu nome de usuário, horário de jogo, jogo favorito, plataforma e descrição.
 
-    Chat:
+   - Chat:
 
   • O usuário deve ser capaz de enviar e receber mensagens de outros usuários.
 
-    Amizade:
+   - Amizade:
 
   • O usuário deve ser capaz de receber e enviar pedidos de amizades.
 
-    Denúncia:
+   - Denúncia:
 
   • O usuário deve ser capaz de realizar denúncias à outros usuários.
 
