@@ -51,7 +51,9 @@ c. Link da Prototipação
   Mitigação: Adotar normas de segurança como LGPD (Lei Geral de Proteção de Dados) e implementar criptografia nos dados sensíveis.
 
 6. Organização do Projeto
+
 a. Cronograma
+
 ![image](https://github.com/user-attachments/assets/c4033e05-06fb-4429-b4c2-0c0a563c5a3b)
 
 i. Dependência entre atividades e duração para cada atividade
